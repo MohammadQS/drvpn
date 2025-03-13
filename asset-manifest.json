@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/drvpn/static/css/main.a7c80f87.css",
-    "main.js": "/drvpn/static/js/main.f51b7084.js",
+    "main.js": "/drvpn/static/js/main.2628f140.js",
     "static/js/453.0811f160.chunk.js": "/drvpn/static/js/453.0811f160.chunk.js",
     "index.html": "/drvpn/index.html",
     "main.a7c80f87.css.map": "/drvpn/static/css/main.a7c80f87.css.map",
-    "main.f51b7084.js.map": "/drvpn/static/js/main.f51b7084.js.map",
+    "main.2628f140.js.map": "/drvpn/static/js/main.2628f140.js.map",
     "453.0811f160.chunk.js.map": "/drvpn/static/js/453.0811f160.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a7c80f87.css",
-    "static/js/main.f51b7084.js"
+    "static/js/main.2628f140.js"
   ]
 }
