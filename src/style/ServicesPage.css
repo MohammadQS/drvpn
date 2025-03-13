@@ -1,0 +1,53 @@
+.service-card {
+    border: 1px solid #eee;
+    border-radius: 12px;
+    padding: 20px;
+    margin: 15px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.charts-container {
+    display: flex;
+    gap: 20px;
+    margin: 20px 0;
+}
+
+.chart {
+    flex: 1;
+    min-width: 200px;
+}
+
+.options-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
+    margin: 20px 0;
+}
+
+.option-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px;
+    border: 1px solid #f0f0f0;
+    border-radius: 8px;
+}
+
+.show-more {
+    grid-column: span 2;
+    text-align: center;
+    color: #007bff;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.renew-button {
+    background-color: #28a745;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    width: 100%;
+}
