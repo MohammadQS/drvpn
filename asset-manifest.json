@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/drvpn/static/css/main.c231d167.css",
-    "main.js": "/drvpn/static/js/main.dd51be32.js",
+    "main.js": "/drvpn/static/js/main.4f615b53.js",
     "static/js/453.0811f160.chunk.js": "/drvpn/static/js/453.0811f160.chunk.js",
     "static/media/iranyekanwebmedium.woff": "/drvpn/static/media/iranyekanwebmedium.67f31143e304e1132bdc.woff",
     "static/media/iranyekanwebbold.woff2": "/drvpn/static/media/iranyekanwebbold.424f2eadda2cc1aaab12.woff2",
     "static/media/iranyekanwebregular.woff2": "/drvpn/static/media/iranyekanwebregular.1cb1e330de9f566e76c7.woff2",
     "index.html": "/drvpn/index.html",
     "main.c231d167.css.map": "/drvpn/static/css/main.c231d167.css.map",
-    "main.dd51be32.js.map": "/drvpn/static/js/main.dd51be32.js.map",
+    "main.4f615b53.js.map": "/drvpn/static/js/main.4f615b53.js.map",
     "453.0811f160.chunk.js.map": "/drvpn/static/js/453.0811f160.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c231d167.css",
-    "static/js/main.dd51be32.js"
+    "static/js/main.4f615b53.js"
   ]
 }
